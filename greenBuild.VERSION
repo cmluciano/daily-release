@@ -5,4 +5,4 @@ export HUB="gcr.io/istio-release"
 export TAG="rkpagadala-test45"
 export ISTIO_REL_URL="https://storage.googleapis.com/istio-release-pipeline-data/daily-build/rkpagadala-test45"
 # Timestamp allows rerun on the same artifacts
-export TIME=1538623465912530506
+export TIME=1538623824272529610
